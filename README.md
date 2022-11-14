@@ -1,2 +1,2 @@
 # adr
-Architecture Decision Record repository as GitHub Discussions
+Architecture Decision Record repository as GitHub Issues
